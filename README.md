@@ -82,8 +82,7 @@ To remind pregnant women to do the various things they need to do to have a heal
 <img src="https://i.imgur.com/41dXEGu.jpg" width=600 >
 
 ### [BONUS] Digital Wireframes & Mockups!
-<img src="https://i.imgur.com/sB6dYim.png
-" width=600 >
+<img src="https://i.imgur.com/sB6dYim.png" width=600 >
 
 ### [BONUS] Interactive Prototype
 
