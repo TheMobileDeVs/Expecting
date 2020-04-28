@@ -18,6 +18,7 @@
 		18851D6F2435596A0009A3FA /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18851D6E2435596A0009A3FA /* SignUpViewController.swift */; };
 		18851D71243589D80009A3FA /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18851D70243589D80009A3FA /* RegistrationViewController.swift */; };
 		2EAE94C4DFD36C42FF1EBEFD /* Pods_ExpectingTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 893076BE3314FF5E22AAA4A3 /* Pods_ExpectingTests.framework */; };
+		423F606D2457A42D007CD0EC /* ReminderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423F606C2457A42D007CD0EC /* ReminderViewController.swift */; };
 		46F15C507B054B54A033D668 /* Pods_Expecting_ExpectingUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98B596349B50E6FC34DC86B2 /* Pods_Expecting_ExpectingUITests.framework */; };
 		EBA1DC49F37326C2FA626FAA /* Pods_Expecting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 135E0681E8636C89E34C32F9 /* Pods_Expecting.framework */; };
 		FB63EA01244C19260067D00C /* MonthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB63EA00244C19260067D00C /* MonthViewController.swift */; };
@@ -61,6 +62,7 @@
 		18851D6E2435596A0009A3FA /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		18851D70243589D80009A3FA /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
 		390087DF87F985161C6FF18B /* Pods-Expecting-ExpectingUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Expecting-ExpectingUITests.release.xcconfig"; path = "Target Support Files/Pods-Expecting-ExpectingUITests/Pods-Expecting-ExpectingUITests.release.xcconfig"; sourceTree = "<group>"; };
+		423F606C2457A42D007CD0EC /* ReminderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderViewController.swift; sourceTree = "<group>"; };
 		4CF4FF98F87B49A91CAED6BD /* Pods-Expecting.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Expecting.release.xcconfig"; path = "Target Support Files/Pods-Expecting/Pods-Expecting.release.xcconfig"; sourceTree = "<group>"; };
 		57CA549B2758D6B078015E97 /* Pods-ExpectingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpectingTests.release.xcconfig"; path = "Target Support Files/Pods-ExpectingTests/Pods-ExpectingTests.release.xcconfig"; sourceTree = "<group>"; };
 		893076BE3314FF5E22AAA4A3 /* Pods_ExpectingTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExpectingTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -151,6 +153,7 @@
 				FB63EA00244C19260067D00C /* MonthViewController.swift */,
 				FB63EA02244C2A5F0067D00C /* LastMonthViewController.swift */,
 				FB63EA06244C48900067D00C /* MonthDetailsViewController.swift */,
+				423F606C2457A42D007CD0EC /* ReminderViewController.swift */,
 			);
 			path = Expecting;
 			sourceTree = "<group>";
@@ -427,6 +430,7 @@
 				FB63EA03244C2A5F0067D00C /* LastMonthViewController.swift in Sources */,
 				18851D6F2435596A0009A3FA /* SignUpViewController.swift in Sources */,
 				FB63EA07244C48900067D00C /* MonthDetailsViewController.swift in Sources */,
+				423F606D2457A42D007CD0EC /* ReminderViewController.swift in Sources */,
 				18834BBC24317411005E539C /* SceneDelegate.swift in Sources */,
 				18851D71243589D80009A3FA /* RegistrationViewController.swift in Sources */,
 				FB63EA01244C19260067D00C /* MonthViewController.swift in Sources */,
