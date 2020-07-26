@@ -32,7 +32,7 @@ A simple reminder app.
 
 - [X] User can register and login (done)
 - [ ] User can add name, age, weeks pregnant
-- [ ] User can add information given from doctor
+- [ ] User can add health information
 
 **Optional Nice-to-have Stories**
 
@@ -75,7 +75,6 @@ A simple reminder app.
 - OR: 
 - Username and password creation page
 - Personal Info
-- Maternal Welfare page
 - Then to Homepage
 
 * Home Page Screen => Schedule page
