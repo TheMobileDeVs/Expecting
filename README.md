@@ -13,15 +13,15 @@ Group Project
 ## Overview
 ### Description
 
-To remind pregnant women to do the various things deemed neccesary to have a healthy pregnancy.
+A simple reminder app.
 
 ### App Evaluation
 
 - **Category:** Health and Lifestyle
 - **Mobile:** This app would be optimized for mobile use
-- **Story:** Allows users to have a reliable scorce to keep them alert and conscius of neccesary tasks or actions during their pregnancy
-- **Market:** Pregnant Women
-- **Habit:** This app would be used based on how often the user may need to be remineded of a pregnancy related necessity
+- **Story:** Allows users to have a reliable scorce to keep them alert and conscius of neccesary tasks or actions
+- **Market:** General Public
+- **Habit:** This app would be used based on how often the user may need to be remineded of taks
 - **Scope:** 
 
 ## Product Spec
@@ -36,7 +36,6 @@ To remind pregnant women to do the various things deemed neccesary to have a hea
 
 **Optional Nice-to-have Stories**
 
-- [ ] Ring alarm when time to eat or take required medication
 - [ ] Reminder of when you should go to bed
 - [ ] Encouraging reminders sent throughout the day
 
@@ -48,10 +47,9 @@ To remind pregnant women to do the various things deemed neccesary to have a hea
    * Creates username and password
    
 * User Profile Screen 
-   * User adds age, weeks pregnant
    * User can add if they are on multivitamins
    * User can add a bedtime
-   * User can add if they are physically
+   * User can add if they are physically active
    * User can create unique reminders 
    * User can logout
    * User can delete account
