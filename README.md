@@ -1,5 +1,5 @@
 
-Group Project - README Template
+Group Project
 ===
 
 # Expecting
